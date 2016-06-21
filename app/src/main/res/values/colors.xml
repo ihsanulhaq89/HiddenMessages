@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="input_color">#a5ffcd</color>
+    <color name="output_color">#ffd8f9</color>
+    <color name="blue">#acb7ff</color>
+</resources>
